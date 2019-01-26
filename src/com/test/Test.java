@@ -13,6 +13,7 @@ import com.util.HibUtil;
 
 public class Test {
   public static void main(String[] args){
+    system.out.println("aaaaa");
 	 NiGu nigu1=new NiGu();
 	 nigu1.setFahao("dd");
 	 NiGu nigu2=new NiGu();
